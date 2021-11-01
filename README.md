@@ -1,0 +1,2 @@
+# NumpyNumeric
+ Numpy sayısal paython
